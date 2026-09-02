@@ -22,7 +22,7 @@ The dataset was filtered to include movies released between **1990 and 1999**. A
 
 ### Movie Duration Distribution
 
-![Movie Duration Distribution](images/movie_duration_distribution.png)
+![Movie Duration Distribution](images/Movie_Distribution.png)
 
 ## 💡 Results
 
