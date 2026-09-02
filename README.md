@@ -22,7 +22,7 @@ The dataset was filtered to include movies released between **1990 and 1999**. A
 
 ### Movie Duration Distribution
 
-![Movie Duration Distribution](netflix-1990s-movie-analysis/Movie_Distribution.png)
+![Movie Duration Distribution](images/movie_duration_distribution.png)
 
 ## 💡 Results
 
